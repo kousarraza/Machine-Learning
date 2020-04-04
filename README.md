@@ -1,2 +1,3 @@
 # hello-world
-This My first Repository
+Hi Guys!
+Kousar raza is here, iam student of computer science.I liked java programming.
